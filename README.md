@@ -16,13 +16,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Olibot1107&theme=default&hide_border=false&include_all_commits=false&count_private=false&title_color=0066FF&text_color=003399&icon_color=0066FF&bg_color=FFFFFF)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Olibot1107&theme=default&hide_border=false&background=FFFFFF&fire=0066FF&currStreakLabel=003399)
+![](https://github-readme-stats.vercel.app/api?username=Olibot1107&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Olibot1107&theme=onedark&hide_border=false)
 
 ![Olibot1107's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Olibot1107&theme=react&line=0066FF&point=003399&hide_border=true)
 
 ## 📈 What I code in the most  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olibot1107&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=0066FF&text_color=003399&icon_color=0066FF&bg_color=FFFFFF)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olibot1107&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Olibot1107&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
