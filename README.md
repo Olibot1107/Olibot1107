@@ -1,6 +1,6 @@
 ### Hey there, I'm Olibot1107! 👋
-- I'm a lil nerd
-![banner](https://cn-vfie.onrender.com/api/banner/?label=build&message=911&color=Red&labelColor=black&style=flat)
+- I'm a lil ner
+
 ## I'm Good at
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
