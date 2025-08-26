@@ -1,5 +1,5 @@
 ### Hey there, I'm Olibot1107! 👋
-- I'm a lil ner
+- I'm a lil nerd
 
 ## I'm Good at
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
