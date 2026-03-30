@@ -92,6 +92,17 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olibot1107/Olibot1107/main/dist/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Olibot1107/Olibot1107/main/dist/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer&animation=fadeIn" />
 
 <img src="https://komarev.com/ghpvc/?username=Olibot1107&color=0066FF&style=for-the-badge&label=PROFILE+VIEWS" />
